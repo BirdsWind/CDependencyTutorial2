@@ -1,0 +1,4 @@
+module CWrapper {
+    header "../../ExampleCLibrary/ExampleCLibrary/ExampleCLibrary.h"
+    export *
+}
