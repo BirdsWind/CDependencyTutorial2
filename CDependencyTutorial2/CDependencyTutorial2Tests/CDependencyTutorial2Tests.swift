@@ -14,5 +14,4 @@ class CDependencyTutorial2Tests: XCTestCase {
     func testUseCFunction() {
         useCFunction();
     }
-
 }
