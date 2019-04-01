@@ -1,0 +1,9 @@
+//
+//  module.modulemap
+//  SampleSwift
+//
+//  Created by ceciliah on 3/3/31 H.
+//  Copyright © 31 Heisei Humlan. All rights reserved.
+//
+
+import Foundation
