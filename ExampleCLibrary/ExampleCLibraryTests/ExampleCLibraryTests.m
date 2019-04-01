@@ -28,7 +28,7 @@
 }
 
 - (void)testMacro {
-    int result = max(5, 6);
+    int result = getMax(5, 6);
     XCTAssertEqual(result, 6);
 }
 
